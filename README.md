@@ -1,8 +1,3 @@
-## Hi there 👋
-
-<!--
-**shahet1124/shahet1124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 Hi, I'm Het Shah from Jamnagar, India 🇮🇳<br>I'm a passionate Full Stack Developer and a B.Tech IT student at CHARUSAT University, with a diploma in Computer Engineering. I love building real-world projects that solve actual problems
 
